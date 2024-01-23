@@ -1,0 +1,2 @@
+this is the deployement file which we have created for ci cd automation
+please review this and get started
